@@ -1,5 +1,5 @@
 # Donut Chase
-A fun and exciting game created from Scratch 3. Catch 25 donuts to win!
+A fun and exciting game created with Scratch 3. Catch 25 donuts to win!
 <hr>
 <p align="center">
 <img width="483" src="https://user-images.githubusercontent.com/79345715/176614115-69ba6591-79da-4b3c-a669-405e871a90ec.png">
