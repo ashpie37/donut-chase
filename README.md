@@ -9,5 +9,5 @@ A fun and exciting game created with Scratch 3. Catch 25 donuts to win!
 
 # How to Play:
 1. Download Scratch 3 <a href="https://scratch.mit.edu/download"> here </a>.
-2. Download Scratch donut-chase.sb3 file from above.
-3. Open donut-chase file in Scratch and enjoy playing!
+2. Download <b> donut-chase.sb3</b> file from above.
+3. Open donut-chase.sb3 file in Scratch and enjoy playing!
